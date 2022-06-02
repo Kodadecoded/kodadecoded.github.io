@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Data Ready DFW
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kodadecoded/kodadecoded.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Want to start your career path into IT and Data? visit [Data Ready DFW](https://www.datareadydfw.org/)). for details. We are a Nonprofit organization within DFW that provides Data literacy and internships to our local DFW community. We assist in individual projects, portfolios, career prep. Mentors from various backgrounds will assist interns inunderstanding programmning language, data analysis and research, as well as data visualizations.
 
 ### Contact Info:
 
-Having trouble reaching me? Check out my [LinkedIn](https://[docs.github.com/categories/github-pages-basics/](https://www.linkedin.com/in/kevinnomichith/)) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations
+Having trouble reaching me? Check out my [LinkedIn](https://[docs.github.com/categories/github-pages-basics/](https://www.linkedin.com/in/kevinnomichith/)) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations.
