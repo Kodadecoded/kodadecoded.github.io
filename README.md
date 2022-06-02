@@ -3,7 +3,7 @@
 A beginning sample of my project portfolio which is still currently under construction stay tuned for updates!
 
 ### Project 1: Project Overview
-coming soon
+coming soon 
 
 ```markdown
 Syntax highlighted code block
