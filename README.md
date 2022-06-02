@@ -29,6 +29,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kodadecoded/kodadecoded.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contacts
+### Contact Info:
 
 Having trouble reaching me? Check out my [LinkedIn](https://[docs.github.com/categories/github-pages-basics/](https://www.linkedin.com/in/kevinnomichith/)) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations
