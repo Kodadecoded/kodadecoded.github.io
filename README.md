@@ -1,8 +1,8 @@
-## Kevin_Portfolio
+## Kevin_Portfolio :rocket:
 
-A beginning sample of my project portfolio which is still currently under construction stay tuned for updates!
+A beginning sample of my project portfolio which is still currently under construction stay tuned for updates! 
 
-### Project 1: Project Overview
+### Project 1: Project Overview :space_invader:
 coming soon 
 
 ```markdown
@@ -29,6 +29,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Want to start your career path into IT and Data? visit [Data Ready DFW](https://www.datareadydfw.org/) for details. We are a Nonprofit organization within DFW that provides Data literacy and internships to our local DFW community. We assist in individual projects, portfolios, career prep. Mentors from various backgrounds will assist interns inunderstanding programmning language, data analysis and research, as well as data visualizations.
 
-### Contact Info:
+### :mailbox_with_mail: Contact Info:
 
-Having trouble reaching me? Check out my [LinkedIn](https://www.linkedin.com/in/kevinnomichith/) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations.
+Having trouble reaching me? Check out my [LinkedIn](https://[docs.github.com/categories/github-pages-basics/](https://www.linkedin.com/in/kevinnomichith/)) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations.
