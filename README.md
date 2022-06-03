@@ -1,4 +1,4 @@
-## Kevin_Portfolio :rocket:
+## Kevin_Portfolio 🚀
 
 A beginning sample of my project portfolio which is still currently under construction stay tuned for updates! 
 
