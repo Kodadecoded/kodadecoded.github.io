@@ -4,6 +4,7 @@ A beginning sample of my project portfolio which is still currently under constr
 
 ### Project 1: Project Overview :space_invader:
 coming soon 
+Global Events World Wide - JULY 2022 Report .pdf
 
 ```markdown
 Syntax highlighted code block
@@ -20,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/Kodadecoded/kodadecoded.github.io/blob/main/Global%20Events%20Worldwide%20-%20AUG%202022%20Report%20(1)%20(1).pdf) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
