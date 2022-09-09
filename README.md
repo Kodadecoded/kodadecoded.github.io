@@ -4,7 +4,7 @@ A beginning sample of my project portfolio which is still currently under constr
 
 ### Project 1: Project Overview :space_invader:
 coming soon 
-Global Events World Wide - JULY 2022 Report .pdf
+
 
 ```markdown
 Syntax highlighted code block
