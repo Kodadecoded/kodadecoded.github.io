@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Kodadecoded/kodadecoded.github.io/blob/main/Global%20Events%20Worldwide%20-%20AUG%202022%20Report%20(1)%20(1).pdf) and ![Image](src)
+[Link](src) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
