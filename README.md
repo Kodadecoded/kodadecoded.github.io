@@ -32,4 +32,4 @@ Want to start your career path into IT and Data? visit [Data Ready DFW](https://
 
 ### :mailbox_with_mail: Contact Info:
 
-Having trouble reaching me? Check out my [LinkedIn]((https://www.linkedin.com/in/kevinnomichith/)) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations.
+Having trouble reaching me? Check out my [LinkedIn](https://www.linkedin.com/in/kevinnomichith/) or [Email](kevinnomichith@gmail.com) for business needs or project collaborations.
